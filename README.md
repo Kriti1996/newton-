@@ -1,2 +1,1 @@
-# newton-
-simple pendulum game
+# newtons_cradle
